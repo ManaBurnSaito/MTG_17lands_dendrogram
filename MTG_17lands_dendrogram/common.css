@@ -1,0 +1,50 @@
+A {font-family:arial black;font-size:40;}
+B {font-family:"arial black"}
+
+body { width:1150px;}
+
+.IM{position: relative; display:inline-block;}
+.GIHWR {position:absolute; bottom: 0; padding: 15; color:red; font-size:40;}
+.ATA {position:absolute; top: 4; right: 0px; padding: 0; color:#3366cc; background-color:rgba(255, 255, 255, 0.7); font-size:18;}
+.IWD {position: absolute; top: 30; right: 0px; padding: 0; color:olivedrab; background-color:rgba(255, 255, 255, 0.7); font-size:16;>}
+.GIH{position: absolute; top: 134; right: 0px; padding: 0; color:purple; background-color:rgba(255, 255, 255, 0.7); font-size:18;>}
+.NAME{position: absolute; top: 80; left: 10px; padding: 0; color:purple; background-color:rgba(255, 255, 255, 0.7); font-size:12;>}
+
+
+.C0 {position: relative; display:inline-block; padding: 0; border: 7px solid #1f77b4; }  /* blue */
+.C1 {position: relative; display:inline-block; padding: 0; border: 7px solid #ff7f0e; }  /* orange */
+.C2 {position: relative; display:inline-block; padding: 0; border: 7px solid #2ca02c; }  /* green */
+.C3 {position: relative; display:inline-block; padding: 0; border: 7px solid #d62728; }  /* red */
+.C4 {position: relative; display:inline-block; padding: 0; border: 7px solid #9467bd; }  /* purple */
+.C5 {position: relative; display:inline-block; padding: 0; border: 7px solid #8c564b; }  /* brown */
+.C6 {position: relative; display:inline-block; padding: 0; border: 7px solid #e377c2; }  /* pink */
+.C7 {position: relative; display:inline-block; padding: 0; border: 7px solid #7f7f7f; }  /* gray */
+.C8 {position: relative; display:inline-block; padding: 0; border: 7px solid #bcbd22; }  /* olive */
+.C9 {position: relative; display:inline-block; padding: 0; border: 7px solid #17becf; }  /* light blue */
+
+
+
+
+.AWU {background: -webkit-linear-gradient(0deg, #ffbf00, #0099ff); -webkit-background-clip: text; -webkit-text-fill-color: rgba(255,255,255,0.0); color: #ff0000;}
+.WB {background: -webkit-linear-gradient(0deg, #ffbf00, #000000); -webkit-background-clip: text; -webkit-text-fill-color: rgba(255,255,255,0.0); color: #ff0000;}
+.WR {background: -webkit-linear-gradient(0deg, #ffbf00, #F70D1A); -webkit-background-clip: text; -webkit-text-fill-color: rgba(255,255,255,0.0); color: #ff0000;}
+.WG {background: -webkit-linear-gradient(0deg, #ffbf00, #4C8656); -webkit-background-clip: text; -webkit-text-fill-color: rgba(255,255,255,0.0); color: #ff0000;}
+.UB {background: -webkit-linear-gradient(0deg, #0099ff, #000000); -webkit-background-clip: text; -webkit-text-fill-color: rgba(255,255,255,0.0); color: #ff0000;}
+.UR {background: -webkit-linear-gradient(0deg, #0099ff, #F70D1A); -webkit-background-clip: text; -webkit-text-fill-color: rgba(255,255,255,0.0); color: #ff0000;}
+.UG {background: -webkit-linear-gradient(0deg, #0099ff, #4C8656); -webkit-background-clip: text; -webkit-text-fill-color: rgba(255,255,255,0.0); color: #ff0000;}
+.BR {background: -webkit-linear-gradient(0deg, #000000, #F70D1A); -webkit-background-clip: text; -webkit-text-fill-color: rgba(255,255,255,0.0); color: #ff0000;}
+.BG {background: -webkit-linear-gradient(0deg, #000000, #4C8656); -webkit-background-clip: text; -webkit-text-fill-color: rgba(255,255,255,0.0); color: #ff0000;}
+.RG {background: -webkit-linear-gradient(0deg, #F70D1A, #4C8656); -webkit-background-clip: text; -webkit-text-fill-color: rgba(255,255,255,0.0); color: #ff0000;}
+.WU {background:　linear-gradient(to right, #1b53d2 25%, #2fe2ff 75%);-webkit-background-clip: text; color: transparent;display: inline-block;}
+
+
+
+.text-gradient{
+        font-weight: bold;
+        text-align: center;
+        background: #005aa7; /* fallback for old browsers */
+        background: -webkit-linear-gradient(left, #005aa7, #fffde4);
+        background: linear-gradient(to left, #005aa7, #fffde4);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
