@@ -2,7 +2,8 @@
 
 17Lands.com
 https://www.17lands.com/public_datasetsのGame Dataデータ（各自サイトからDL）
-或いはhttps://www.17lands.com/trophiesからデッキリストを集めて結合した自前のデータ(各自で用意する。）
+或いはhttps://www.17lands.com/trophies
+からデッキリストを集めて結合した自前のデータ(各自で用意する。）
 
 階層型クラスタリングしてデンドログラムを作るコードです。
 
