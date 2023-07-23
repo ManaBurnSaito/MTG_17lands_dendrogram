@@ -1,9 +1,8 @@
 # MTG_17lands_dendrogram
 
 17Lands.com
-https://www.17lands.com/public_datasetsのGame Dataデータ（各自サイトからDL）
-或いはhttps://www.17lands.com/trophies
-からデッキリストを集めて結合した自前のデータ(各自で用意する。）
+https://www.17lands.com/public_datasets　のGame Dataデータ（各自サイトからDL）
+或いはhttps://www.17lands.com/trophies　からデッキリストを集めて結合した自前のデータ(各自で用意する。）
 
 階層型クラスタリングしてデンドログラムを作るコードです。
 
