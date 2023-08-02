@@ -2,6 +2,8 @@
 
 # MTG_17lands_dendrogram
 
+https://github.com/ManaBurnSaito/MTG_17lands_dendrogram/assets/139425458/d60ea8cf-f2e8-432e-8f33-8e551d2a20d1
+
 17Lands.comのデータをを使い７勝デッキをまとめ
 階層型クラスタリングしてデンドログラムを作るコードです。
 
